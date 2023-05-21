@@ -1,0 +1,31 @@
+.text-decoration {
+text-decoration: none;
+}
+.nav-space {
+    padding-left: 20px;
+}
+.profile_img {
+    width: 500px;
+    height: 335px;
+    margin-left: 20%;
+}
+.molly {
+    width: 400px;
+    height: 400px;
+    margin-left: 20%;
+}
+.card_img {
+    width: 20vw;
+    height: 20vw;
+}
+.boton {
+    background-color: black;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
